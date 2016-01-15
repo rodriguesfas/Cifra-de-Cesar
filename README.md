@@ -29,7 +29,7 @@ vezes a palavra deslocando uma letra de cada vez.
 
 # Vejamos:
 
-Deslocamento                    Mensagem
+Deslocamento___________________Mensagem
 
       0                     foxeh#grv#jhhnv
 
