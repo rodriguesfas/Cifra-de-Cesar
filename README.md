@@ -30,6 +30,7 @@ vezes a palavra deslocando uma letra de cada vez.
 # Vejamos:
 
 Deslocamento                    Mensagem
+
       0                     foxeh#grv#jhhnv
 
       1                     enwdg#fqu#iggmu
@@ -49,3 +50,8 @@ Para decifrar teria que utilizar técnicas mais avançadas, uma delas é a anál
 
 #Aplicativo Java
 ![DMPHL298N Logo](https://github.com/rodriguesfas/Cifra-de-Cesar/blob/master/CifraDeCesar/img/cifra%20de%20cesar.png)
+
+# Referencias:
+http://www.gta.ufrj.br/grad/10_1/aes/index_files/Page1294.htm
+http://pt.wikipedia.org/wiki/Cifra_de_substitui%C3%A7%C3%A3o_monoalfab%C3%A9tica
+http://www.comp.ita.br/~marck/TrabAutom/criptografia/Criptorafia-10.html
